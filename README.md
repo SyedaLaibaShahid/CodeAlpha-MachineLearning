@@ -1,4 +1,4 @@
-# **Completed Machine Learning Tasks — CodeAlpha Internship🚀**
+# **CodeAlpha Internship —— Machine Learning🚀**
 
 ## **Task 1: Credit Scoring Model**
 Objective: Predict an individual's creditworthiness based on their financial history.
