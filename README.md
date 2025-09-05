@@ -1,4 +1,4 @@
-# **CodeAlpha Internship —— Machine Learning🚀**
+# **CodeAlpha Internship — Machine Learning🚀**
 
 ## **Task 1: Credit Scoring Model**
 Objective: Predict an individual's creditworthiness based on their financial history.
@@ -23,7 +23,5 @@ Approach: Used Convolutional Neural Networks (CNNs) with TensorFlow/Keras for tr
 Key Highlights:
 Preprocessed handwritten character images (grayscale conversion, normalization, augmentation).
 Designed and trained a CNN architecture for feature extraction and classification.
-
 Achieved high accuracy in recognizing English alphabets.
-
 Demonstrated the application of deep learning for real-world OCR (Optical Character Recognition) tasks.
